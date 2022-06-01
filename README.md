@@ -5,7 +5,7 @@ This small exercice is just meant to challenge new FidMe appliants.
 ### Get started !
 
 -   Clone this repo (do **not** fork it)
--   Install react native & ruby if you haven't (any version will do fine, just change edit the .ruby-version file)
+-   Install react native & ruby if you haven't (any version will do fine, just edit the .ruby-version file with the proper version)
 -   Run `yarn up && yarn android`
 
 ### The challenge
