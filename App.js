@@ -31,12 +31,10 @@ const App: () => Node = () => {
                 textAlign="center"
                 color="mainOrange"
                 style={styles.bold}>
-                {'Text Fidme\nReact Native'}
+                {'Test Fidme\nReact Native'}
             </Text>
             <Text textAlign="center" style={styles.headerText}>
-                {
-                    'Reproduis l\'écran "Suppression de compte" de l\'application Fidme'
-                }
+                {'Reproduce fidme\'s "Account Deletion" screen'}
             </Text>
         </Header>
     );
